@@ -8,7 +8,7 @@ My primary goal is to attain a profound understanding of Java and its ecosystems
 ## 📚 **Contents**
 This repository is organized into different directories, each focusing on a specific topic or a concept in Java. Here's a brief overview:
 
-### 1. **Core Java**
+### 1. **[Core Java](./1-core-java)**
    - Basic Syntax
    - Object-Oriented Principles
    - Data Structures
