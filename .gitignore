@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Directory for built artifacts
+/target/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# Mac OS directory
+.DS_Store
