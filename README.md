@@ -15,7 +15,7 @@ This repository is organized into different directories, each focusing on a spec
    - Algorithms
    - ...
 
-### 2. **Advanced Java**
+### 2. **[Advanced Java](./2-advanced-java)**
    - Multithreading and Concurrency
    - Java 8+ Features
    - Design Patterns
